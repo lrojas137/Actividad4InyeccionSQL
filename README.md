@@ -1,4 +1,4 @@
-# Actividad 4 Inyeccion SQL y Mitigación
+# Actividad 3 Inyeccion SQL y Mitigación
 
 # SQL Injection Demo (PHP + MySQL + XAMPP)
 
